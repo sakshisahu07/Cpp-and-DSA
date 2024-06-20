@@ -1,0 +1,9 @@
+<html>
+	<head>
+		<title> wscube tech </title>
+	</head>
+	<body>
+		wsCube Tech
+
+	</body>
+</html>
